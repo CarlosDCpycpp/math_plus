@@ -1,5 +1,5 @@
 # for access
-from . import convert, fibonacci, generator, geometry, const, percentages, physics, probability, decorator
+from . import convert, fibonacci, generator, geometry, const, percentages, physics, probability
 
 import math as _m
 import typing as _t
